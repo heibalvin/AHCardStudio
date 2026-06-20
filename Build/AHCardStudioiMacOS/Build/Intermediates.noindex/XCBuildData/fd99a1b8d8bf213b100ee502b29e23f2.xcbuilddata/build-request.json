@@ -1,0 +1,68 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "f9e0e5c6f7fa8954b5c0f10df701af198c776c5fd1acd9e5e9a7f06382af791d"
+    }
+  ],
+  "containerPath" : "/Users/heibalvin/Github/heibalvin/AHCardStudio/Applications/AHCardStudioiMacOS/AHCardStudioiMacOS.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "macosx",
+      "sdk" : "macosx26.4",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/heibalvin/Github/heibalvin/AHCardStudio/Build/AHCardStudioiMacOS/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/heibalvin/Github/heibalvin/AHCardStudio/Build/AHCardStudioiMacOS/Build/Products",
+      "derivedDataPath" : "/Users/heibalvin/Github/heibalvin/AHCardStudio/Build/AHCardStudioiMacOS",
+      "indexDataStoreFolderPath" : "/Users/heibalvin/Github/heibalvin/AHCardStudio/Build/AHCardStudioiMacOS/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/heibalvin/Github/heibalvin/AHCardStudio/Build/AHCardStudioiMacOS/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/heibalvin/Github/heibalvin/AHCardStudio/Build/AHCardStudioiMacOS/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "142",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TOOLCHAINS" : "com.apple.dt.toolchain.Metal.32023.883 $(inherited)"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
