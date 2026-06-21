@@ -22,6 +22,7 @@ The first headless version defines:
 - `AHCardPack.standard52()`, which creates a 52-card pack using ranks `2` through `A`.
 - `AHCardPack.standard52one()`, which creates a Klondike 52-card pack using ranks `1` through `K`.
 - `AHKlondike`, which creates a stock, waste deck, 4 foundations, and 7 tableau piles.
+- `Source/aiplayer.cpp`, which provides `AHAI::AIPlayer` actions for stock pulls, waste-to-pile moves, pile-to-foundation moves, pile-to-pile moves, visible-card access, and win detection.
 
 ## Build and run
 
@@ -59,6 +60,18 @@ Clean the headless build output:
 
 ```sh
 make clean
+```
+
+Build the C++ AI player object:
+
+```sh
+make aiplayer
+```
+
+Clean the C++ AI player object:
+
+```sh
+make aiplayer-clean
 ```
 
 Clean the macOS app build output:

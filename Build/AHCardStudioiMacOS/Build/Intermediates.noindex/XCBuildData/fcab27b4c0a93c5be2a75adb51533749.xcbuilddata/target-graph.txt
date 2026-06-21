@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'AHCardStudioiMacOS macOS' in project 'AHCardStudioiMacOS' (no dependencies)
