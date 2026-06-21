@@ -17,8 +17,8 @@ The first headless version defines:
 - `AHCard.suit: Int` from `1` to `4`, ordered as `Diamond`, `Club`, `Heart`, `Spade`.
 - `AHCard.id`, calculated as `suit * 14 + rank`.
 - `AHCard(rank:suit:isFolded:)`.
-- `AHCardDeck(name:type:)`, renamed from `AHDeck`, with `AHCardDeckType.stock`, `AHCardDeckType.waste`, and `AHCardDeckType.pile`.
-- `AHCardDeck.push(_:)` and `AHCardDeck.pop()` update card folding based on deck type.
+- `AHCardDeck<Card>`, renamed from `AHDeck`, with generic `push(_:)` and `pop()` behavior.
+- `AHCardDeckStock`, `AHCardDeckWaste`, and `AHCardDeckPile` inherit from `AHCardDeck<AHCard>`.
 - `AHCardPack.standard52()`, which creates a 52-card pack using ranks `2` through `A`.
 - `AHCardPack.standard52one()`, which creates a Klondike 52-card pack using ranks `1` through `K`.
 - `AHKlondike`, which creates a stock, waste deck, 4 foundations, and 7 tableau piles.

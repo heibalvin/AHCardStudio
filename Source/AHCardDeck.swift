@@ -1,102 +1,88 @@
-public enum AHCardDeckType: Int, CustomStringConvertible, Codable {
-    case stock = 1
-    case waste = 2
-    case pile = 3
-
-    public var description: String {
-        switch self {
-        case .stock:
-            return "stock"
-        case .waste:
-            return "waste"
-        case .pile:
-            return "pile"
-        }
-    }
-
-    public var isLIFO: Bool {
-        switch self {
-        case .stock, .pile:
-            return true
-        case .waste:
-            return false
-        }
-    }
-
-    public var shouldFoldPushedCard: Bool {
-        switch self {
-        case .stock:
-            return true
-        case .waste, .pile:
-            return false
-        }
-    }
-
-    public var shouldUnfoldPoppedCard: Bool {
-        switch self {
-        case .stock:
-            return false
-        case .waste, .pile:
-            return true
-        }
-    }
+public protocol AHCardLike: Hashable {
+    var isFolded: Bool { get set }
 }
 
-public struct AHCardDeck: CustomStringConvertible, Hashable, Codable {
+extension AHCard: AHCardLike {}
+
+open class AHCardDeck<Card: AHCardLike>: CustomStringConvertible, Hashable {
     public var name: String
-    public var type: AHCardDeckType
-    public private(set) var cards: [AHCard]
+    public private(set) var cards: [Card]
 
-    public init(name: String, type: AHCardDeckType, cards: [AHCard]? = nil) {
+    public init(name: String, cards: [Card] = []) {
         self.name = name
-        self.type = type
-        self.cards = cards ?? []
+        self.cards = cards
     }
 
-    public static func stock(name: String = "Stock", cards: [AHCard]? = nil) -> AHCardDeck {
-        AHCardDeck(name: name, type: .stock, cards: cards)
+    public static func == (lhs: AHCardDeck<Card>, rhs: AHCardDeck<Card>) -> Bool {
+        lhs.name == rhs.name && lhs.cards == rhs.cards
     }
 
-    public static func waste(name: String = "Waste", cards: [AHCard]? = nil) -> AHCardDeck {
-        AHCardDeck(name: name, type: .waste, cards: cards)
+    public func hash(into hasher: inout Hasher) {
+        hasher.combine(name)
+        hasher.combine(cards)
     }
 
-    public static func pile(name: String = "Pile", cards: [AHCard]? = nil) -> AHCardDeck {
-        AHCardDeck(name: name, type: .pile, cards: cards)
+    open var removeIndex: Int {
+        cards.count - 1
     }
 
-    public mutating func reset() {
-        cards.removeAll()
+    open func preparePushedCard(_ card: Card) -> Card {
+        card
     }
 
-    public mutating func clear() {
-        cards.removeAll()
+    open func preparePoppedCard(_ card: Card) -> Card {
+        card
     }
 
-    public mutating func push(_ card: AHCard) {
-        var pushedCard = card
-        if type.shouldFoldPushedCard {
-            pushedCard.isFolded = true
-        } else if type == .waste {
-            pushedCard.isFolded = false
-        }
-        cards.append(pushedCard)
+    public func push(_ card: Card) {
+        cards.append(preparePushedCard(card))
     }
 
-    public mutating func pop() -> AHCard? {
+    public func pop() -> Card? {
         guard cards.isEmpty == false else {
             return nil
         }
+        return preparePoppedCard(cards.remove(at: removeIndex))
+    }
 
-        let index = type.isLIFO ? cards.count - 1 : 0
-        var poppedCard = cards.remove(at: index)
-        if type.shouldUnfoldPoppedCard {
-            poppedCard.isFolded = false
-        }
-        return poppedCard
+    public func reset() {
+        cards.removeAll()
+    }
+
+    public func clear() {
+        cards.removeAll()
     }
 
     public var description: String {
         "\(name): \(cards.map { "\($0)" }.joined(separator: " "))"
     }
+}
+
+open class AHCardDeckStock: AHCardDeck<AHCard> {
+    override open func preparePushedCard(_ card: AHCard) -> AHCard {
+        var pushedCard = card
+        pushedCard.isFolded = true
+        return pushedCard
+    }
+}
+
+open class AHCardDeckWaste: AHCardDeck<AHCard> {
+    override open var removeIndex: Int {
+        0
+    }
+
+    override open func preparePushedCard(_ card: AHCard) -> AHCard {
+        var pushedCard = card
+        pushedCard.isFolded = false
+        return pushedCard
+    }
+
+    override open func preparePoppedCard(_ card: AHCard) -> AHCard {
+        var poppedCard = card
+        poppedCard.isFolded = false
+        return poppedCard
+    }
+}
+
+open class AHCardDeckPile: AHCardDeck<AHCard> {
 }

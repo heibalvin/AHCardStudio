@@ -315,7 +315,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			5J2nbpSLX75s4J2o5WDKuK9+LIU=
+			lDvouBdhWhgE2W5u06Y5b7XT1no=
 			</data>
 			<key>requirement</key>
 			<string>identifier "AHCardStudioiMacOS.debug" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: heibalvin@gmail.com (DNU3WFT8Z9)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>

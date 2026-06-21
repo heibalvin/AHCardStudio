@@ -216,476 +216,476 @@
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Accessibility.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Accessibility-3C8F2NLHGXZG81WNLZUKW9VQ3.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Accessibility-8YNOGFUM85EZ52RSGSLVNV8M8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Accessibility"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/AppKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/AppKit-5DP1GZVDTKSI6TPVAD46K16DU.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/AppKit-197EIQAARO24CZAL051TR20HG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "AppKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ApplicationServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ApplicationServices-2YZZ4TTMK81EP3XHHBQY634EJ.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ApplicationServices-8LTUOLCH5QMRL4VNU12FPMYN1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ApplicationServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CFNetwork-E8J1C7GE4G30ZMXN0QM6HVD6E.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CFNetwork-9WTPO2CMW8SXQE8WY177JE9I6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CFNetwork"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/cups.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CUPS-AUKCS9D2Y9WKJMK6BZMN0ANS6.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CUPS-Z66TSHVTCBUNZNKSXBIO2J24.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CUPS"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Cocoa.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Cocoa-D4H0PKDH8UGRY6V0O9ZLMIG37.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Cocoa-CC3EUCT890MW5WOXBMLE8TVRU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Cocoa"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ColorSync.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ColorSync-2BUIKOKR6Q5XJY7SQT22PBH8L.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ColorSync-99PTMHVX74ETCGJSHKSGFEG59.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ColorSync"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreData.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreData-CQ0TA8KOZ3WDIQR8PT86SJ5KM.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreData-77M834P734CSRG1VRNJFQ4FK8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreData"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreFoundation-D1B1Z6PICHA6LK1RTXC7871G9.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreFoundation-92PL1QTPENYQY4X5JDUE3IFX6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreFoundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreGraphics-B7V0BPY0YUVS0FIFSC6NY044O.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreGraphics-5I0XD8Y2G6278CXWM2CTIHLLX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreGraphics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreImage-4HL2Y1TKGMK8PEM9F8X0JCTEE.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreImage-5R9IML93YXUILN5UY01JEMWG5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreImage"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreServices-8BW1IOTA9DN0HI8KXIL2NWG21.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreServices-AIN1TI56NNT88ZMN60118TTRF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreText-54RH76SJP20ZQJFEUPP7VQ5PO.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreText-383NBY7477V9YDFSSUISHY7NZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreText"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreTransferable.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreTransferable-24M2L4DYGAE4FVSE54LLJ0YJH.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreTransferable-CKLXLG63C1EPU85SLZU4QJG7W.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreTransferable"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreVideo-BYVSPC8HQGL11E1NCTORJMQ2P.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/CoreVideo-56IG3GHJT0HX0TT43OYSEMI2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreVideo"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Darwin.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Darwin-8G7V991BFMORABDUUQTGQ9MAT.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Darwin-5PLDPUC5UXUDKYF3QEAAMN7LS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Darwin"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/DataDetection-9CBF8WJB4K9TVOM5T9P5VYHQC.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/DataDetection-5HIZP2C16Q7KH846B21RG0BG3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DataDetection"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DeveloperToolsSupport.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/DeveloperToolsSupport-23JMAC06X1CWH9G7KILSMW177.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/DeveloperToolsSupport-5B16JRJ9H4IKRZ9O6PRO3N5NE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DeveloperToolsSupport"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DiskArbitration.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/DiskArbitration-264ZVFLVD7QIPSQ4AU4EZOFO4.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/DiskArbitration-6AMHTF0G8NK2P1M0G1PTU3XPK.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DiskArbitration"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/dispatch.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Dispatch-DC7ST211H9XN5IW6K22NMWK67.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Dispatch-95UDWGM3QPT4XUYNAU51Y99ZJ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Dispatch"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Foundation-3CH1CKN47GRXVOYMRK6KDMCDB.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Foundation-69I8DOOJI6LTNABLFXBC0OZXW.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Foundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/GLKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/GLKit-DG5I51B0N5SHZFGVMQR4RZUJ2.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/GLKit-670C4V4HGG8FW3R0XD7FQYYR4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "GLKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/GameplayKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/GameplayKit-5G2FBXOR45190AI9VS8CWC6MM.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/GameplayKit-DYA8A0A1805YW6SBXHKD8U30F.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "GameplayKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/IOKit-1DI6FOS5KTG7BZ0Z9NU5D83XR.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/IOKit-1YG20MVE01PFXWPZXU7B4AWG6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/IOSurface-5S3EQMIIZHXSSNMIXZXEIV4XJ.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/IOSurface-BRGRN8SS76AHY6Y1S8RMXVZHN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOSurface"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ImageIO-687C8GW56TRVXAMOOAW3RAE2S.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ImageIO-CFKG0DQI4DC7IIXEILQDP3D7P.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ImageIO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinBasic.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/MachO-CWMK76C5HOG7PTH63ORM02N9M.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/MachO-ABNDG78GC219MO5SNL7ER5SM4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "MachO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Metal-7JLZ6XC77GMKY4OXH8TVGVMGG.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Metal-323LIUV4W6NI0GBG4INMNUK8X.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Metal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ModelIO.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ModelIO-1PB60B4KKGW9QQ8X8OREV4J9Y.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ModelIO-6NMVBJ10I79A4XYMWLUSK967S.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ModelIO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OSLog.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/OSLog-5XKEZUOZRPG10G5SWP9NR21DQ.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/OSLog-AUI0RDEH9WOHBDQQ20FC19E30.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OSLog"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/ObjectiveC.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ObjectiveC-1ZJP6STMDJUPB2MTK5339W3CA.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ObjectiveC-8EWHBHD5AT5HNE6AGHA1TMI17.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ObjectiveC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OpenGL.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/OpenGL-CTVFH2R6NC6LQR6NP0RCO3HOR.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/OpenGL-2EZZDX2RD31FCYZR92Z3BTRHO.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OpenGL"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/QuartzCore-1RN8YGWDWZZRSTLE4I8F96T45.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/QuartzCore-CIIM10N7JW4GB7WTMF1CWM68S.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "QuartzCore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SceneKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/SceneKit-1D73JU1YE20QY5ZL57RVE1R28.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/SceneKit-10ZO8WUPT8Q1ZCLTKRW84ITVB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SceneKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Security-ILC5NQ7MWOB07L7VOGEVS3V2.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Security-1YYL7QNMENI92LAYMT8YKPLWD.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Security"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Spatial\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Spatial-XTFMT1S1CC6KNWZ4WUKGNNX2.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Spatial-BJNGY2MYR06YGVQDDACJ6RHE4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Spatial"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SpriteKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/SpriteKit-DYGC1FENSDDY1TZ6X0DEG66DZ.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/SpriteKit-CA3P7W52Z3V47YA7ZF8EQZ2EE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SpriteKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/SwiftShims-3V0XGG2O9T2LF6XIS301GJ4KV.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/SwiftShims-DT1KWBHCOBVHFC7QLHAMRA4J2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUI.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/SwiftUI-1J97792LLI8XWBZ97CTJVF64R.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/SwiftUI-19TR084MWMPEJ26VD6RUM873C.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUI"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUICore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/SwiftUICore-5UL20OXRFSRU0BSSQCGXER58C.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/SwiftUICore-4GLOAWPMB450PAJO8E7X6NL2U.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUICore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Symbols.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Symbols-Y7TDHUFD8BRGGP83RDM024WB.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/Symbols-85E7KUAVYTYDRWXOJBYN4ZRYV.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Symbols"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/UniformTypeIdentifiers-75S72YFZVV8GT2B4RWV3NMWZV.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/UniformTypeIdentifiers-JD9R20R67390TKUS5GAIDEIB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UniformTypeIdentifiers"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/xpc.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/XPC-34CMKF856TH3V6JG96H25USIK.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/XPC-7718XYGMX1YYYQKXEXT65P35S.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "XPC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_AvailabilityInternal-J1UPPNZBFGFGHP2N2MRSD84.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_AvailabilityInternal-EVKTFK94SGILW6USHRNNXKRL5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_AvailabilityInternal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_float-7RIWP0UG345UZZ8YNXN8VJSOB.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_float-F4NXTK8PWL1XD26E55X8S0WQH.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_float"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_intrinsics-AIX8YOH527EBQNXCLJV6KG5W.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_intrinsics-A2X3WRHNA5B3NUAF400UINW54.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_intrinsics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_inttypes-CUTZO3BA3WXC144S6AO8UZRJH.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_inttypes-CTMYOEVPAPKT4M11HUA1HA7M9.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_inttypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_limits-1W9K2OXUEGDLN8AGAN5D272HA.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_limits-D8PSPOFVIGRW0S7O43DAK0H3X.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_limits"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_stdarg-AXMFJMR9PJIWKN6EIO52EV2DZ.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_stdarg-2U7ZHTVKJBY31B29CFT8ZN2OX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdarg"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_stdatomic-3HU00O16M4R50SQVZKCBQM2T2.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_stdatomic-TQFWG3KG03RVQKVR0Y275LQM.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdatomic"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_stdbool-7NP9VMFNTXV9SY3EMUGFM0O67.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_stdbool-3DX3U5WQXOIN3KNXVDD67A8J.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdbool"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_stddef-31B82BJBA037S8Y397WWIG27A.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_stddef-DWD9YWABOY7A9AMRV5SEQX38V.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stddef"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_stdint-ELTMSBB50ADHYXDV95AXGN8XB.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_stdint-TZDBK0L39F5OK2X7ZZL3S45G.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdint"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_tgmath-C1PIK5E0ET8TYZ9J3LFE2CNOW.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_Builtin_tgmath-3FDWTTFBI09Z35QV7VCO37YWF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_tgmath"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_DarwinFoundation1-34N1CORYGCA7HKBVUJPAWX6K9.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_DarwinFoundation1-52OONHOZ72UP5JKU8L4V3A16N.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation1"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_DarwinFoundation2-BF69HOT888KLE6G9MCLGJ1JU5.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_DarwinFoundation2-BJMMH6EJFJ94L6TD96C0DG7NU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation2"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation3.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_DarwinFoundation3-BH53JDL015N3L2VZKOSKG948T.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_DarwinFoundation3-8UFV5LSMC78KD9281T0Q1OJNP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation3"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_SwiftConcurrencyShims-83U4M4UUSN6HX9K24BMI77C26.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/_SwiftConcurrencyShims-4E5JZW3D984MKEZLTGFUBAZOS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_SwiftConcurrencyShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/launch.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/launch-97YEJEAN5G4LXKS35D9RF8KDQ.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/launch-BA8UT1NF45BRRTDUYLYIHTRZ9.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "launch"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libDER\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/libDER-AT7CE9DSUUEE2HSF8RZUHRINR.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/libDER-2OLYODW68N1BU02HED09V69UX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libDER"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libkern.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/libkern-20S24PAND1ZII9Q7CIVF4IQR8.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/libkern-6NUH6BZFFUBI7T0F1PUYVUJKP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libkern"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/os-B2RVAXTBP75JVIZOLHZBELLU7.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/os-3CPK13GRRHDEQBIF8S1HTBUBA.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/os_object-CT65XHMA9Q95NLZSPNKAKDCXJ.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/os_object-AYQ8T1JBDYR2TLGW8IYT5IBTS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_object"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/os_workgroup-1KTLZP2Y489UB1N535RQXE9H7.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/os_workgroup-9Q8H7Q8S6F2WXP5V1MRVGIKZ7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_workgroup"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ptrauth-CDMWRRB7PMYXM2V8GH271IBTG.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ptrauth-2HEKJA6AL6T5F1WA7KTI1C7BX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrauth"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ptrcheck-8Y95L36AQOPX22SRTZD05R52A.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/ptrcheck-71K11VWP4IV1ZJ2R6WSYU0WSF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrcheck"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/simd\/module.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/simd-1YGH05KVFF4WBGF0ZB5KWA00N.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/simd-1H4TTVISFXEXDM4MQFDSL50XT.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "simd"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/sys_types-233HA7BHKH3AZ85E8XZ87HRID.pcm",
+    "clangModulePath" : "\/Users\/heibalvin\/Github\/heibalvin\/AHCardStudio\/Build\/AHCardStudioiMacOS\/ModuleCache.noindex\/sys_types-NCYHH5MJMJGHQQQB6KFPQ5D.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "sys_types"

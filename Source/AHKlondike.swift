@@ -1,8 +1,8 @@
 public struct AHKlondike: CustomStringConvertible {
-    public var stock: AHCardDeck
-    public var waste: AHCardDeck
-    public var foundations: [AHCardDeck]
-    public var piles: [AHCardDeck]
+    public var stock: AHCardDeckStock
+    public var waste: AHCardDeckWaste
+    public var foundations: [AHCardDeckPile]
+    public var piles: [AHCardDeckPile]
 
     public init() {
         self.init(cards: AHCardPack.standard52oneCards().shuffled())
@@ -10,15 +10,15 @@ public struct AHKlondike: CustomStringConvertible {
 
     public init(cards: [AHCard]) {
         var shuffledCards = cards
-        var foundations: [AHCardDeck] = []
-        var piles: [AHCardDeck] = []
+        var foundations: [AHCardDeckPile] = []
+        var piles: [AHCardDeckPile] = []
 
         for foundationIndex in 0..<4 {
-            foundations.append(AHCardDeck.pile(name: "Foundation \(foundationIndex + 1)"))
+            foundations.append(AHCardDeckPile(name: "Foundation \(foundationIndex + 1)"))
         }
 
         for pileIndex in 0..<7 {
-            piles.append(AHCardDeck.pile(name: "Pile \(pileIndex + 1)"))
+            piles.append(AHCardDeckPile(name: "Pile \(pileIndex + 1)"))
         }
 
         for pileIndex in 0..<7 {
@@ -35,8 +35,8 @@ public struct AHKlondike: CustomStringConvertible {
             return foldedCard
         }
 
-        self.stock = AHCardDeck.stock(name: "Stock", cards: stockCards)
-        self.waste = AHCardDeck.waste(name: "Waste")
+        self.stock = AHCardDeckStock(name: "Stock", cards: stockCards)
+        self.waste = AHCardDeckWaste(name: "Waste")
         self.foundations = foundations
         self.piles = piles
     }
@@ -46,16 +46,12 @@ public struct AHKlondike: CustomStringConvertible {
             return
         }
 
-        var wasteCard = card
-        wasteCard.isFolded = false
-        waste.push(wasteCard)
+        waste.push(card)
     }
 
     public mutating func recycleWasteToStock() {
         while let card = waste.pop() {
-            var stockCard = card
-            stockCard.isFolded = true
-            stock.push(stockCard)
+            stock.push(card)
         }
     }
 
