@@ -145,12 +145,6 @@
 		395008C42FE67BA6008976BC /* cardSpadesA.png in Resources */ = {isa = PBXBuildFile; fileRef = 395008382FE67BA6008976BC /* cardSpadesA.png */; };
 		395008C92FE67CF3008976BC /* playing-card-board-2048x1536.png in Resources */ = {isa = PBXBuildFile; fileRef = 395008C82FE67CF3008976BC /* playing-card-board-2048x1536.png */; };
 		395008CA2FE67CF3008976BC /* playing-card-board-2048x1536.png in Resources */ = {isa = PBXBuildFile; fileRef = 395008C82FE67CF3008976BC /* playing-card-board-2048x1536.png */; };
-		3950093B2FE7FA86008976BC /* AHCardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395009352FE7FA86008976BC /* AHCardDeck.swift */; };
-		3950093C2FE7FA86008976BC /* AHCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395009342FE7FA86008976BC /* AHCard.swift */; };
-		3950093F2FE7FA86008976BC /* AHKlondike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395009372FE7FA86008976BC /* AHKlondike.swift */; };
-		395009412FE7FA86008976BC /* AHCardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395009352FE7FA86008976BC /* AHCardDeck.swift */; };
-		395009422FE7FA86008976BC /* AHCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395009342FE7FA86008976BC /* AHCard.swift */; };
-		395009452FE7FA86008976BC /* AHKlondike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395009372FE7FA86008976BC /* AHKlondike.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -225,9 +219,6 @@
 		3950083A2FE67BA6008976BC /* cardSpadesK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardSpadesK.png; sourceTree = "<group>"; };
 		3950083B2FE67BA6008976BC /* cardSpadesQ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardSpadesQ.png; sourceTree = "<group>"; };
 		395008C82FE67CF3008976BC /* playing-card-board-2048x1536.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "playing-card-board-2048x1536.png"; sourceTree = "<group>"; };
-		395009342FE7FA86008976BC /* AHCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AHCard.swift; sourceTree = "<group>"; };
-		395009352FE7FA86008976BC /* AHCardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AHCardDeck.swift; sourceTree = "<group>"; };
-		395009372FE7FA86008976BC /* AHKlondike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AHKlondike.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -313,7 +304,6 @@
 				395007B22FE67B58008976BC /* AHCardStudioiMacOS Shared */,
 				395007BD2FE67B59008976BC /* AHCardStudioiMacOS iOS */,
 				395007CD2FE67B59008976BC /* AHCardStudioiMacOS macOS */,
-				3950093A2FE7FA86008976BC /* Source */,
 				3950083C2FE67BA6008976BC /* Assets */,
 				395007BC2FE67B59008976BC /* Products */,
 			);
@@ -403,17 +393,6 @@
 			);
 			name = Assets;
 			path = /Users/heibalvin/Github/heibalvin/AHCardStudio/Assets;
-			sourceTree = "<absolute>";
-		};
-		3950093A2FE7FA86008976BC /* Source */ = {
-			isa = PBXGroup;
-			children = (
-				395009342FE7FA86008976BC /* AHCard.swift */,
-				395009352FE7FA86008976BC /* AHCardDeck.swift */,
-				395009372FE7FA86008976BC /* AHKlondike.swift */,
-			);
-			name = Source;
-			path = /Users/heibalvin/Github/heibalvin/AHCardStudio/Source;
 			sourceTree = "<absolute>";
 		};
 /* End PBXGroup section */
@@ -661,9 +640,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				395009412FE7FA86008976BC /* AHCardDeck.swift in Sources */,
-				395009422FE7FA86008976BC /* AHCard.swift in Sources */,
-				395009452FE7FA86008976BC /* AHKlondike.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -671,9 +647,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3950093B2FE7FA86008976BC /* AHCardDeck.swift in Sources */,
-				3950093C2FE7FA86008976BC /* AHCard.swift in Sources */,
-				3950093F2FE7FA86008976BC /* AHKlondike.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
