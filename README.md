@@ -2,80 +2,62 @@
 
 AHCardStudio is a Swift / SpriteKit game library for running games like Poker, BlackJack, Hearts, FreeCell, and more on iOS and macOS. The project is designed to support headless AI / reinforcement-learning form factors and windowed visual-game form factors.
 
-## Current headless layout
+## Project layout
 
-- `Source/` contains Swift source files.
-- `Build/` contains compiled headless executables.
-- `Assets/` is reserved for game assets.
-- `Assets/boardgame-pack/` contains Kenney.nl board game assets from [OpenGameArt: Boardgame Pack](https://opengameart.org/content/boardgame-pack).
-
-## First headless executable
-
-The first headless version defines:
-
-- `AHCard.rank: Int` from `1` to `14`, where `14` is Ace.
-- `AHCard.suit: Int` from `1` to `4`, ordered as `Diamond`, `Club`, `Heart`, `Spade`.
-- `AHCard.id`, calculated as `suit * 14 + rank`.
-- `AHCard(rank:suit:isFolded:)`.
-- `AHCardDeck<Card>`, renamed from `AHDeck`, with generic `push(_:)` and `pop()` behavior.
-- `AHCardDeckStock`, `AHCardDeckWaste`, and `AHCardDeckPile` inherit from `AHCardDeck<AHCard>`.
-- `AHCardPack.standard52()`, which creates a 52-card pack using ranks `2` through `A`.
-- `AHCardPack.standard52one()`, which creates a Klondike 52-card pack using ranks `1` through `K`.
-- `AHKlondike`, which creates a stock, waste deck, 4 foundations, and 7 tableau piles.
-- `Source/aiplayer.cpp`, which provides `AHAI::AIPlayer` actions for stock pulls, waste-to-pile moves, pile-to-foundation moves, pile-to-pile moves, visible-card access, and win detection.
+- `Source/AHCardStudio/` — core library (card, deck, and Klondike model).
+- `Source/AHCardStudioTest/` — headless executable that exercises the library.
+- `Source/AHCardStudioiMacOS/` — macOS SpriteKit app (Xcode project).
+- `Build/` — compiled `.o` and `.a` library artifacts, test binaries, and app build products.
+- `Assets/` — game card PNG assets and board graphics.
 
 ## Build and run
 
-Build the headless executable:
+Build and run the headless test executable (`AHCardStudioTest`):
 
 ```sh
-make build
+make            # or: make run
 ```
 
-Run the headless executable:
+Build only the headless test executable without running it:
 
 ```sh
-make run
+make test-build
 ```
 
-`make run` builds `Build/AHCardStudio` and prints the Klondike layout to the console.
+Build the static library (`libAHCardStudioLib.a` + `AHCardStudioLib.o`):
+
+```sh
+make lib
+```
 
 Build the macOS SpriteKit app:
 
 ```sh
-make app-build
+make app       # or: make app-build
 ```
 
 Build and open the macOS SpriteKit app:
 
 ```sh
-make app-run
+make run-app   # or: make app-run
 ```
-
-`make app-run` builds `Applications/AHCardStudioiMacOS/AHCardStudioiMacOS.xcodeproj` with the `AHCardStudioiMacOS macOS` scheme and opens `Build/AHCardStudioiMacOS/Build/Products/Debug/AHCardStudioiMacOS.app`.
 
 ## Clean
 
-Clean the headless build output:
+Remove all build output:
 
 ```sh
 make clean
 ```
 
-Build the C++ AI player object:
-
-```sh
-make aiplayer
-```
-
-Clean the C++ AI player object:
-
-```sh
-make aiplayer-clean
-```
-
-Clean the macOS app build output:
+Remove only the app-derived data:
 
 ```sh
 make app-clean
+```
+
+Remove only the library build artifacts (`.o` / `.a`):
+
+```sh
+make lib-clean
 ```
