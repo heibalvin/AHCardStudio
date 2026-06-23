@@ -4,42 +4,54 @@ AHCardStudio is a Swift / SpriteKit game library for running games like Poker, B
 
 ## Project layout
 
-- `Source/AHCardStudio/` — core library (card, deck, and Klondike model).
-- `Source/AHCardStudioTest/` — headless executable that exercises the library.
-- `Source/AHCardStudioiMacOS/` — macOS SpriteKit app (Xcode project).
-- `Build/` — compiled `.o` and `.a` library artifacts, test binaries, and app build products.
+- `Source/AHCardStudioLib/` — core library (card, deck, and Klondike model).
+- `Source/AHCardStudio/` — headless executable that exercises the library.
+- `Source/AHCardStudioApp/` — SwiftUI app (Xcode project, macOS + iOS targets).
+- `Build/` — compiled `.o` and `.a` library artifacts, executable binaries, and app build products.
 - `Assets/` — game card PNG assets and board graphics.
 
 ## Build and run
 
-Build and run the headless test executable (`AHCardStudioTest`):
+Build and run the headless executable (`AHCardStudio`):
 
 ```sh
 make            # or: make run
 ```
 
-Build only the headless test executable without running it:
+Build only the headless executable without running it:
 
 ```sh
-make test-build
+make build
 ```
 
-Build the static library (`libAHCardStudioLib.a` + `AHCardStudioLib.o`):
+Build the static library (`libAHCardStudioLib.a` + object files):
 
 ```sh
 make lib
 ```
 
-Build the macOS SpriteKit app:
+Build the macOS SwiftUI app:
 
 ```sh
-make app       # or: make app-build
+make app-build-macos   # or: make app-build (defaults to macOS)
 ```
 
-Build and open the macOS SpriteKit app:
+Build and run the macOS SwiftUI app:
 
 ```sh
-make run-app   # or: make app-run
+make app-run-macos     # or: make app-run (defaults to macOS)
+```
+
+Build the iOS SwiftUI app:
+
+```sh
+make app-build-ios
+```
+
+Run the iOS SwiftUI app on the simulator:
+
+```sh
+make app-run-ios
 ```
 
 ## Clean
