@@ -15,7 +15,7 @@ struct AHKlondikeSceneView: View {
     
     var body: some View {
         SpriteView(scene: scene)
-            .frame(maxWidth: scene.frame.width, maxHeight: scene.frame.height) // Constrains the SwiftUI container
-            .padding()
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .aspectRatio(scene.frame.width / scene.frame.height, contentMode: .fit)
     }
 }

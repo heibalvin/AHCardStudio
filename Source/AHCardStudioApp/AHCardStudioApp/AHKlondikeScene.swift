@@ -13,7 +13,6 @@ class AHKlondikeScene: SKScene {
     override init() {
         super.init(size: CGSize(width: 2048, height: 1536))
         self.anchorPoint = .zero
-        self.scaleMode = .resizeFill
     }
     
     required init?(coder aDecoder: NSCoder) {
@@ -25,6 +24,7 @@ class AHKlondikeScene: SKScene {
         
         let playground = SKSpriteNode(imageNamed: "playing-card-board-2048x1536")
         playground.name = "playground"
+        playground.size = CGSize(width: 2048, height: 1536)
         playground.anchorPoint = .zero
         playground.zPosition = -100
         addChild(playground)
@@ -32,7 +32,8 @@ class AHKlondikeScene: SKScene {
         for id in 0...6 {
             let pile = SKSpriteNode(imageNamed: "cardBack_blue1")
             pile.name = "pile\(id)"
-            pile.position = CGPoint(x: 256 * id, y: 1024)
+            pile.anchorPoint = .zero
+            pile.position = CGPoint(x: 256 * id + 256, y: 1024)
             addChild(pile)
         }
     }
